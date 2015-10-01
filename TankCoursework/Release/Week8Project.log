@@ -1,0 +1,4 @@
+﻿  coloured_cube4.cpp
+coloured_cube4.cpp(64): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+coloured_cube4.obj : error LNK2001: unresolved external symbol _gluPerspective@32
+H:\Year 2\Introduction to Graphics and Interactive 3D Modelling\Week 8\Week 8 Visual Studio Project\Release\Week8Project.exe : fatal error LNK1120: 1 unresolved externals
